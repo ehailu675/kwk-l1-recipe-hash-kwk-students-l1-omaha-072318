@@ -2,7 +2,7 @@
 
 #1. Create a hash called `perfect_10_recipe` that has the following data:
 
-perfect_10_recipe = 
+perfect_10_recipe := 
   {:almond_flour => "2 cups",
     :gluten_free_whole_oats => "1 cup",
     :kosher_salt => "1/2 tea spoon",
@@ -15,8 +15,7 @@ perfect_10_recipe =
     :agave =>"1/4 cup" 
    }
 
-perfect_10_recipe.each do  |ingredients, quantity|
-  puts ""
+
 #  - almond flour - 2 cups
 #  - gluten freewhole oats - 1 cup
 #  - kosher salt - 1/2 tea spoon
