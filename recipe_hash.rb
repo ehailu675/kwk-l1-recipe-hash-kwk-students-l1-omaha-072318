@@ -1,7 +1,7 @@
 #code your solutions here
 
 #1. Create a hash called `perfect_10_recipe` that has the following data:
-RECIPE_HASH do
+
 perfect_10_recipe = 
   {:almond_flour => "2 cups",
     :gluten_free_whole_oats => "1 cup",
@@ -14,7 +14,7 @@ perfect_10_recipe =
     :olive_oil =>"1/2 cup", 
     :agave =>"1/4 cup" 
    }
-  end
+
    puts perfect_10_recipe
 #  - almond flour - 2 cups
 #  - gluten freewhole oats - 1 cup
