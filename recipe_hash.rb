@@ -41,6 +41,7 @@ end
 def ingredients_and_amounts(perfect_10_recipe)
   perfect_10_recipe.each do |ingredients, amounts|
     puts" #{ingredients} #{amounts}"
+  end
 end
 
 #4: Now use `puts` to print out just the ingredients without the amounts. You'll want to use the `each_key` method.
