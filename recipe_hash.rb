@@ -11,7 +11,7 @@ perfect_10_recipe = {
     :slivered_almonds_lightly_toasted => "1/4 cup",
     :mini_dark_chocolate_chips => "3/4 cup"
     :olive_oil => "1/2 cup"
-    :agave => "1/4 cup"
+    :agave => "1/4 cup" }
 #  - almond flour - 2 cups
 #  - gluten freewhole oats - 1 cup
 #  - kosher salt - 1/2 tea spoon
