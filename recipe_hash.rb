@@ -15,7 +15,8 @@ perfect_10_recipe =
     :agave =>"1/4 cup" 
    }
 
-   puts perfect_10_recipe
+perfect_10_recipe.each do  |ingredients, quantity|
+  puts ""
 #  - almond flour - 2 cups
 #  - gluten freewhole oats - 1 cup
 #  - kosher salt - 1/2 tea spoon
